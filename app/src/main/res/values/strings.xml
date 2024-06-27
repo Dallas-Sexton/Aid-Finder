@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">AID-FINDER</string>
+    <string name="title_dashboard">AID-FINDER</string>
+    <string name="title_notifications">AID-FINDER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
